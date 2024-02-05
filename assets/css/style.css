@@ -22,8 +22,13 @@ body {
 img {
   display: block;
   height: 400px;
-  width: 600px;
+  width: 800px;
   object-fit: cover;
+}
+.new4{
+  text-align: justify;
+  font-weight: 600;
+  color: #161111;
 }
 
 .gallery {
@@ -1252,7 +1257,7 @@ section {
 }
 
 .why-us .content-item p {
-  color: #aaaaaa;
+  color: #030303;
   font-size: 15px;
   margin: 0;
   padding: 0;
@@ -1678,9 +1683,9 @@ section {
 }
 
 .team .member img {
-  max-width: 60%;
+  max-width: 90%;
   border-radius: 50%;
-  margin: 0 0 30px 0;
+  /* margin: 10px 10z 30px 0; */
 }
 
 .team .member h4 {
@@ -1699,7 +1704,7 @@ section {
   padding-top: 10px;
   font-size: 14px;
   font-style: italic;
-  color: #aaaaaa;
+  color: #070202;
 }
 
 .team .member .social {
